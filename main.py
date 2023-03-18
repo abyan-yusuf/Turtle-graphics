@@ -1,0 +1,15 @@
+from turtle import *
+
+pensize(10)
+color("#92dcff")
+right(120)
+forward(170)
+right(180)
+forward(100)
+right(62.5)
+forward(60)
+left(114)
+forward(72)
+left(180)
+forward(170)
+done()
